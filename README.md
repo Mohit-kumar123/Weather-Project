@@ -6,7 +6,7 @@ This is a simple weather app built using HTML, CSS, and JavaScript, utilizing th
 
 Below is the flowchart preview of the Weather App architecture:
 
-![Weather App Flowchart](image.webp)
+![Weather App Flowchart](flowchart.webp)
 
 ## Features
 - Search for weather by location.
